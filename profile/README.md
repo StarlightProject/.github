@@ -4,7 +4,7 @@
 
 ## Descripción
 
-Starlight Project es un equipo de colaboración de proyectos y foros de discusión para desarrollo de aplicaciones.
+BitBound es un equipo de colaboración de proyectos y foros de discusión para desarrollo de aplicaciones.
 
 ## Contribución
 
@@ -14,4 +14,4 @@ Starlight Project es un equipo de colaboración de proyectos y foros de discusi�
 
 Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto con nosotros en [correo electrónico de soporte](mailto:kravshezco@gmail.com).
 
-¡Gracias por ser parte de Starlight Project!
+¡Gracias por ser parte de BitBound!
