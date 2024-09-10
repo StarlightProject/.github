@@ -1,4 +1,4 @@
-# Starlight Project
+# BitBound
 
 ![Logo de Starlight Project](https://cdn.discordapp.com/icons/1150874474468622396/b67da65664d011072e5416d32c0faef4.png)
 
